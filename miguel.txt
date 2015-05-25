@@ -1,1 +1,5 @@
 miguel me sacaneou hoje
+
+func main(){
+  return "lol"
+}
