@@ -1,6 +1,8 @@
 Oi meu nome é genezys
 Vamos estudar
 
+MUDEI AQUI TAMBEM SE FERRA AI
+
 func main(){
   return nil
 	}
@@ -8,3 +10,6 @@ func main(){
 altera uma linha
 
 açsdfjaldfjasdkfj
+
+
+
