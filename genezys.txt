@@ -1,2 +1,6 @@
 Oi meu nome é genezys
 Vamos estudar
+
+func main(){
+  return nil
+	}
